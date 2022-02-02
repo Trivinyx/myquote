@@ -4,17 +4,17 @@ import "rsc.io/quote/v4"
 import "fmt"
 
 func Glass() {
-	fmt.println(quote.Glass())
+	fmt.Println(quote.Glass())
 }
 
 func GO() {
-	fmt.println(quote.Go())
+	fmt.Println(quote.Go())
 }
 
 func Hello() {
-	fmt.println(quote.Hello())
+	fmt.Println(quote.Hello())
 }
 
 func Opt() {
-	fmt.println(quote.Opt())
+	fmt.Println(quote.Opt())
 }
